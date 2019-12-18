@@ -1,0 +1,25 @@
+body{
+	background: linear-gradient(to right, #e91e63,blue);
+}
+.main{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+}
+
+.button{
+	width: 50px;
+	height: 30px;
+	font-size: 20px;
+	cursor: pointer;
+	background-color:#607d8b;
+	color: white;
+	border:none; 
+}
+.txtView{
+	width: 209px;
+	margin-left: 3px;
+	height: 30px;
+	color: #607d8b;
+}
